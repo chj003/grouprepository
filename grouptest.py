@@ -1,5 +1,5 @@
 def cj():
-    pass
+    print("cj's print function")
 #########
 def josh():
     pass
